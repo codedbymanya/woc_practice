@@ -1,0 +1,5 @@
+# Learning Log
+
+Day 3:
+- Practiced local changes using GitHub Desktop
+- Understood difference between local and online edits
